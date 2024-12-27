@@ -1,0 +1,83 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+.bgn1 {
+    background-color: #f8f3f2;
+    width: 100%;
+    height: 100%;
+}
+.ul-1 {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.li1 {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+}
+.li1:hover{
+    background-color: rgb(184, 230, 201);
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 5px;
+}
+
+.tautan1 {
+    color: rgb(16, 16, 16);
+    text-decoration: none;
+}
+.tentangsaya1 {
+
+}
+.saya1 {
+    background-color: rgb(149, 188, 222);
+    width: 100%;
+    height: 100%;
+}
+.ts1 {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.tentang1 {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+    font-size: 20px;
+}
+.saya2 {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+.gambar3 {
+    width: 250px;
+    height: 300px;
+}
+.saya3 {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+}
+.ts2 {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.tentang2 {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+    font-size: 19px;
+}

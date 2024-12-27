@@ -1,0 +1,82 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+.bgn1 {
+    background-color: #f8f3f2;
+    width: 100%;
+    height: 100%;
+}
+.ul-1 {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.li1 {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+}
+.li1:hover{
+    background-color: rgb(184, 230, 201);
+    transition: .2s ease-in-out;
+    transition-delay: .1s;
+    border-radius: 5px;
+}
+
+.tautan1 {
+    color: rgb(16, 16, 16);
+    text-decoration: none;
+}
+.body0{
+    background-color: white(150, 196, 235);
+}
+.last1{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.tl1 {
+    list-style-type: none;
+    padding: 10px;
+    margin: 5px;
+    color: white;
+    font-size: 30px;
+}
+.ktk1 {
+    padding: 10px;
+    margin: 0px;
+    color: black;
+    font-size: 25px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ktk2{
+    padding: 10px;
+    margin: 0px;
+    color: black;
+    font-size: 22px;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bgn2 {
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+.gambar2 {
+    width: 300px;
+    height: 200px;
+}
